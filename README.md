@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Himanish!
 
-<!--
-**himanish9/himanish9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 React Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=himanish9\&show_icons=true\&theme=radical)
+
+---
+
+## 💻 Recent Projects
+
+* 🔹 Currency Exchange
+* 🔹 Password Generator
+* 🔹 QR Generator
+* 🔹 Tic Tac Toe Game
+* 🔹 Dice Game
+
+-
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/himanish-sunkara-382b38287/)
+Email: [yourmail@gmail.com](sunkarahimaneesh@gmail.com)
+📱Phone: +91-8688109678
+
+
+---
+
+⭐ Let's build something amazing!
