@@ -5,13 +5,14 @@ projects:
 
 ## 🚀 Recent Projects
 
-✅ [Currency Converter](https://himanish9.github.io/currency-app/)
+✅ [Global Currency Converter](https://himanish9.github.io/global-currency-converter/)
 
-✅ [Tic-Tac-Toe Game](https://himanish9.github.io/tic-tac-toe/)
+✅ [QR Generator](https://himanish9.github.io/QR-generator/)
 
-✅ [QR Generator](https://himanish9.github.io/qr-generator/)
+✅ [Tic-Tac-Toe Game](https://himanish9.github.io/tic-tac-toe-game/)
 
-✅ [Calculator App](https://himanish9.github.io/calculator/)
+✅ [Calculator App](https://himanish9.github.io/calculator-app/)
+
 ## 📫 Connect with Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/himanish-sunkara-382b38287/)
