@@ -3,10 +3,15 @@
 
 projects:
 
-https://himanish9.github.io/global-currency-converter/
-https://himanish9.github.io/QR-generator/
-https://himanish9.github.io/tic-tac-toe-game/
-https://himanish9.github.io/calculator-app/
+## 🚀 Recent Projects
+
+✅ [Currency Converter](https://himanish9.github.io/currency-app/)
+
+✅ [Tic-Tac-Toe Game](https://himanish9.github.io/tic-tac-toe/)
+
+✅ [QR Generator](https://himanish9.github.io/qr-generator/)
+
+✅ [Calculator App](https://himanish9.github.io/calculator/)
 ## 📫 Connect with Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/himanish-sunkara-382b38287/)
