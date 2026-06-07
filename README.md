@@ -13,7 +13,7 @@ projects:
 
 ✅ [Calculator App](https://himanish9.github.io/calculator-app/)
 
-[Movie recommendation systems](https://movie-data-explorer.onrender.com/)
+✅ [Movie recommendation systems](https://movie-data-explorer.onrender.com/)
 
 ## 📫 Connect with Me
 
